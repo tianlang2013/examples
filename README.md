@@ -115,7 +115,7 @@ It doesn't contain "best ways" neither explains all its features. It's just a si
     * [访问日志](http_request/request-logger/main.go)
 	* [Log Requests to a file](http_request/request-logger/request-logger-file/main.go)
     * [本地化和国际化](miscellaneous/i18n/main.go)
-    * [恢复](miscellaneous/recover/main.go)
+    * [启用recover，防止崩溃](miscellaneous/recover/main.go)
     * [性能分析 Profiling (pprof)](miscellaneous/pprof/main.go)
     * [日志 Internal Application File Logger](miscellaneous/file-logger/main.go)
     * [测试 Testing](testing/httptest/main_test.go)
