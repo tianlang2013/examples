@@ -96,7 +96,7 @@ It doesn't contain "best ways" neither explains all its features. It's just a si
     * [Favicon](file-server/favicon/main.go)
     * [基础服务](file-server/basic/main.go)
     * [启动文件服务](file-server/embedding-files-into-app/main.go)
-    * [在文件服务中启动GZIP ]](file-server/embedding-gziped-files-into-app/main.go) **NEW**
+    * [在文件服务中启动GZIP ](file-server/embedding-gziped-files-into-app/main.go) **NEW**
     * [发送或下载文件](file-server/send-files/main.go)
 * [单页应用](file-server/single-page-application)
     * [单页应用](file-server/single-page-application/basic/main.go)
