@@ -9,6 +9,9 @@
 This repository provides easy to understand code snippets on how to get started with web development with the Go programming language using the [Iris](https://github.com/kataras/iris) web framework.
 
 It doesn't contain "best ways" neither explains all its features. It's just a simple, practical cookbook for young Gophers!
+```
+每个示例编译时最好用终端单独编译，或者用IDE单独打开每一个示例进行编译运行，否则会出现VIEW找不到的情况
+```
 
 ## Table of Contents
 
